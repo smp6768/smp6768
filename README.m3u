@@ -1,66 +1,71 @@
 #EXTM3U
-# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV
+# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source.
+#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",PTV
 https://new.ptvcrickethd.com/pak/media.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Chardikla Time TV
+#EXTINF:-1 tvg-logo=""group-title="" group-title="",Chardikla Time TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728634406/ei/xokIZ7OgCYTsg8UPsYzTwQ0/ip/58.84.180.51/id/SDBqmzX_6qM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303820/txs/51303818%2C51303819%2C51303820%2C51303821/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxUaVo-_Kat_ZNqkFA7om8qAedxLnJiFxc1rbYpdMlkrKAKwdAUptdvfPC4B_55NoT-4YeA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN5T-bvPWEeLBnp37vMYycRTHXkOOx3t1s0p1FPJVNXRAiEA2UFX4sXjVLGUt5mE9gD24d4mcln-qAmNDU3oLcKhMq8%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",9X TASHAN
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",9X TASHAN
 https://previewsecgire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_delay_ire_sd/9xtashan/master/chunklist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",KIDS TV
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",KIDS TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv/master_en.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",SIKH RATNAVALI
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",SIKH RATNAVALI
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sikh-ratnavali/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",GARV PUNJAB GURBANI
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",GARV PUNJAB GURBANI
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/garv-punjab-gurbani/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",BOLLYWOOD CLASSIC
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",ZEE CENEMA HD
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",ZEE CENEMA HD
 https://api-ott-zee-zb.ottera.tv/loggingmediaurlpassthrough/a.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",SHEMAROO BOLLYWOOD
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",SHEMAROO BOLLYWOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",SHEMAROO UMANG PLUS
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",SHEMAROO UMANG PLUS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",BOLLYWOOD MASALA
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",BOLLYWOOD MASALA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",BOLLYWOOD HD
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23179/green-chillies-tv/poster_20240627_214356.png"group-title="Hindi" group-title="",GREEN CHILLIES TV
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",GREEN CHILLIES TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23143/hollywood-desi/poster_20240216_230539.jpg"group-title="Hindi" group-title="",HOLLYWOOD DESI
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",HOLLYWOOD DESI
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",BOLLYWOOD PRIME
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",MASTER CHEF
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",MASTER CHEF
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cook-and-bake/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",BRIT ASIA TV
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",BRIT ASIA TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",9XM
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",YRF MUSIC
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",YRF MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
-#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",PTC NEWS
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PTC NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1728635111/ei/h4wIZ7_KJrm79fwP8b-roQQ/ip/58.84.180.51/id/TeZxmCWS9Io.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51303820/txs/51303818%2C51303819%2C51303820%2C51303821/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/54MbxTnbEOVURmMnrMrlciai1qwi-Qdh44FqMKwdeW7tVn7eXy0gMBly2Ojm-dGRUGjYHuRZZw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHZ-RnfqNmeREwar-aC-iCkmBFti-2rrsHJvd3iHvMRUCIH462CiSgz7FfqOFyBo0qiZaKD9qPK5_E7HI9DoY4Jfj/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",BALLE BALLE
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",BALLE BALLE
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi" group-title="",Star Plus HD
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",Star Plus HD
 http://217.20.112.199/starplushd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata Bangla",PITAARA TV
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",PITAARA TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla Movies",INDIA NEWS
+#EXTINF:-1 tvg-logo="" group-title="PUNJABI",INDIA NEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-news/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",ABP SANJHA
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",ABP SANJHA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",KIDS TV INDIA
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",KIDS TV INDIA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",BALLE BALLE
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",BALLE BALLE
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",SAGA MUSIC
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",SAGA MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",9X JALWA
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",9X JALWA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi" group-title="",Sony Kal
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
@@ -71,10 +76,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Sports" group-title="",Eurosports
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
