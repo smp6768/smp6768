@@ -4,6 +4,8 @@
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",CHARDIKALA GURBANI TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",AAJ TAK
+https://aajtaks3-vh.akamaihd.net/i/aajtak/video/2018_12/12_dec_18_ghalot_pilot_samarthak_bhede_1024_,164,410,512,996,.mp4.csmil/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",CHARDIKALA TIME TV
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
 
