@@ -126,10 +126,8 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="HINDI MUSIC" group-title="",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="HINDI MUSIC" group-title="",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="HINDI MUSIC" group-title="",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
@@ -236,97 +234,74 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",& Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",ZEE Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",& tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Sarthak
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak1/default/zeesarthak1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Bollywood
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Talkies HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Cinemalu
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Information",Animal_Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Information",Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Information",4k Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTS" tvg-logo=" ", T Sports HD 
 https://fdev.short.gy/PakVenGxRanaPk.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/qYcmzmw/images-1.jpg", GXR WORLD 🇮🇳
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="SPORTS", RTA Sports HD 🔗🏏
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="SPORTS", T-Sports HD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
 #EXTINF:-1 tvg-logo="" group-title="SPORTS" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg",PTV Sports 🏏 
 https://proximity-fire-team.xyz/play.php/willowusa.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="Cricket 🏏", PTV Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="SPORTS", PTV Sports HD
 https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",EuroSports HD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS" tvg-logo="",EuroSports HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4jQHgVj/download-5.png" group-title="Cricket 🏏", RTA Sports HD
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", RTA Sports HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v1kKv1f/download-4.png" group-title="Cricket 🏏", Astro Cricket HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1kKv1f/download-4.png" group-title="SPORTS", Astro Cricket HD
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football",  Grar TV
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  Grar TV
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="Football", Laliga-TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7wKLds/images.png" group-title="SPORTS", Laliga-TV
 https://himel-op.top/Join-Telegram-@HimelOP_Official/laliga-tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="Football", A Sports Tukey 🏆
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="SPORTS", A Sports Tukey 🏆
 https://bozztv.com/inim03/live1/aspor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="Football", Football 2024 🏆
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png" group-title="",group-title="SPORTS", Football 2024 🏆
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="SPORTS", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3rnwvDD/download-2.jpg" group-title="Bangladeshi 📺",Ekhon TV
-https://raw.githubusercontent.com/gift4bd/ytm/main/EkhonTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sK9W8X7/download-4.jpg" group-title="ISLAMIC CHANNELS",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg"group-title="ISLAMIC CHANNELS" group-title="",Islam Bangla
-https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",ACCU WEATHER
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg",ACCU WEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Xplore TV 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png",FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?v=1
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
+#EXTINF:-1 tvg-logo="" group-title="Information" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.pngg", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery Hindi HD (BD)
+#EXTINF:-1 tvg-logo="" group-title="Information" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery Hindi HD (BD)
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery HD
+#EXTINF:-1 tvg-logo="" group-title="Information" tvg-logo="https://i.ibb.co/jfbNHpj/download-5.png", Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC (L*)
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
@@ -334,13 +309,13 @@ https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png", TLC English
 https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
+#EXTINF:-1 tvg-logo="" group-title="Information" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", Animal Planet Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Infotainment Channels", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="Information", Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.pngg", ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="" group-title="Information" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.pngg", ANIMAL PLANET HD
 https://code.vthanhtivi.pw/getlink/eazie/243127/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="" group-title="Information" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png", ANIMAL PLANET HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel XP English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -372,14 +347,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS INTERNASIONAL", RT NEWS USA
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 🛜
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fHPbTH/images.jpg" group-title="NEWS INTERNASIONAL", CGTN News (EN) 🛜
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International(EN) 🛜
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International News tv 
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="NEWS INTERNASIONAL", Aljazeera HD 🛜
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜
