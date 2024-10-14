@@ -1,6 +1,9 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source.
 
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",CHARDIKALA
+http://5gtv.online/live/TESTmustafa/TEstmutafa/56365.ts
+
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",CHARDIKALA GURBANI TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
 
