@@ -1,6 +1,30 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source.
 
+
+#EXTINF:-1,||IN|| Rishtey Cineplex
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91375.ts
+#EXTINF:-1,||IN|| &Pictures FHD
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91379.ts
+#EXTINF:-1,||IN|| PBN Music
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91567.ts
+
+#EXTINF:-1,||IN|| Willow Cricket HD
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91658.ts
+
+#EXTINF:-1,||UK|| WILLOW CRICKET HD
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/1416.ts
+
+#EXTINF:-1,||UK|| TNT SPORTS 1 FHD
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91276.ts
+#EXTINF:-1,||UK|| TNT SPORTS 2 FHD
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91277.ts
+#EXTINF:-1,||UK|| TNT SPORTS 3 FHD
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91278.ts
+#EXTINF:-1,||UK|| TNT SPORTS 4 FHD
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91279.ts
+
+
 #EXTINF:-1,||IN|| Star Bharat
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91620.ts
 #EXTINF:-1,||IN|| Star Gold 2
@@ -49,14 +73,6 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91641.ts
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91642.ts
 #EXTINF:-1,||IN|| Sun TV
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91643.ts
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1,||IN|| MH1 News Punjabi
@@ -119,7 +135,6 @@ http://513422364238927329.ofgd1018.xyz:80/live/me424212/Uy8xnyrhEg/927329.ts
 
 #EXTINF:-1,IN: AAJ TAK FHD
 http://513422364238941699.ofgd1018.xyz:80/live/me424212/Uy8xnyrhEg/941699.ts
-
 
 
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",CHARDIKALA GURBANI TV
