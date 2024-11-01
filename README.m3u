@@ -195,7 +195,7 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91643.ts
 #EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",MH1 News Punjabi
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91534.ts
 
-#EXTINF:-1 tvg-logo=""group-title="INFORMATION" group-title="",Sony BBC Earth
+#EXTINF:-1 tvg-logo=""group-title="Information" group-title="",Sony BBC Earth
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91604.ts
 #EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES" group-title="",Sony Max (UK)
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91605.ts
@@ -246,9 +246,6 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91457.ts
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS" group-title="",Pogo Hindi
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91571.ts
-
-#EXTINF:-1,IN: PTC PUNJABI FHD
-http://513422364238927329.ofgd1018.xyz:80/live/me424212/Uy8xnyrhEg/927329.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",MU TV
