@@ -1,7 +1,7 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source.
 
-#EXTINF:-1,##########  PUNJABI  #####
+#-------------------------PUNJABI-----------------------
 
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",CHARDIKALA GURBANI TV
 https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8
@@ -34,7 +34,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",DD Punjabi
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91465.ts
 
-#EXTINF:-1,##########  SPORTS #######
+#--------------------SPORTS--------------------
 
 #EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", EUROSPORTS 1 FHD
 http://904428763942920567.ofgd1018.xyz:80/play/vi18701/3Kvb7E@GGdA/920567.ts
@@ -162,7 +162,7 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
 
 
-#EXTINF:-1,##########  HINDI DRAMA  #####
+#--------------------HINDI DRAMA-----------------------
 
 #EXTINF:-1 tvg-logo=""group-title="DRAMA" group-title="",Star Plus HD
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91627.ts
@@ -231,7 +231,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv1/default/andtvhd1.m3u8
 
 
 
-#EXTINF:-1,##########  INFORMATION  #####
+#---------------------INFORMATION-----------------------------
 
 #EXTINF:-1 tvg-logo=""group-title="Information" group-title="",Sony BBC Earth
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91604.ts
@@ -331,7 +331,7 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 
 
 
-#EXTINF:-1,##########  HINDI NEWS  #####
+#-----------------------------HINDI NEWS------------------
 
 
 #EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",AAJ TAK FHD
@@ -356,7 +356,7 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91500.ts
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91501.ts
 
 
-#EXTINF:-1,##########  HINDI MUSIC  #####
+#------------------------------HINDI MUSIC------------------------
 
 #EXTINF:-1 tvg-logo=""group-title="HINDI MUSIC" group-title="",SAGA MUSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
@@ -417,7 +417,7 @@ http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 
 
 
-#EXTINF:-1,##########  KIDS  #####
+#---------------------------------KIDS-------------------
 
 
 #EXTINF:-1 tvg-logo=""group-title="KIDS" group-title="",KIDS TV
@@ -453,7 +453,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-#EXTINF:-1,##########  HINDI MOVIES  #####
+#----------------------------HINDI MOVIES---------------------
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
