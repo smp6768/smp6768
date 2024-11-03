@@ -194,6 +194,12 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91375.ts
 #EXTINF:-1 tvg-logo=""group-title="DRAMA" group-title="",&Pictures FHD
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91379.ts
 
+#EXTINF:-1 tvg-logo=""group-title="DRAMA" group-title="", ZEE TALKIES
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91675.ts
+
+#EXTINF:-1 tvg-logo=""group-title="DRAMA" group-title="", ZEE ANMOL
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91663.ts
+
 #EXTINF:-1 tvg-logo=""group-title="DRAMA" group-title="",Sun TV USA
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91642.ts
 
@@ -230,8 +236,6 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91457.ts
 #EXTINF:-1 tvg-logo=""group-title="DRAMA" group-title="",Zee TV
 http://103.110.110.11:8081/live/zeetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="DRAMA" group-title="",And TV
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv1/default/andtvhd1.m3u8
 
 
 
@@ -363,6 +367,9 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91500.ts
 #EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",India TV
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91501.ts
 
+#EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",ZEE NEWS
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91673.ts
+
 
 #------------------------------HINDI MUSIC------------------------
 
@@ -462,6 +469,9 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo=""group-title="KIDS",TOONZ KIDS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="KIDS",Nickelodeon
+http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91566.ts
+
 
 #----------------------------HINDI MOVIES---------------------
 
@@ -554,14 +564,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News" group-title="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="English Movies",Star Movies HD
-http://212.102.34.8:9080/StarMoviesHD/video.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="English Movies",HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="English Movies",Movies Now
-http://103.84.57.155:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English Movies",MNX HD
 http://103.84.57.155:8000/play/a030/index.m3u8
@@ -573,8 +577,6 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="English News",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="English News",CGTN News
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -584,36 +586,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="English News",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",& Pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",ZEE Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",& tv HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee tv HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Anmol
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Sarthak
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak1/default/zeesarthak1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Talkies HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkieshd1/default/zeetelkieshd1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ZEE5",Zee Cinemalu
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu1/default/zeecinemalu1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Information",Animal_Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
