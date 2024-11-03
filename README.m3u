@@ -30,6 +30,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",ABP SANJHA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PUNJABI HITS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/master.m3u8?
+
 
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",DD Punjabi
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91465.ts
@@ -698,3 +701,4 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNATIONAL" tvg-logo="", CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
