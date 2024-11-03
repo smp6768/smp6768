@@ -33,6 +33,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PUNJABI HITS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/master.m3u8?
 
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="", TV PUNJAB
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",DD Punjabi
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91465.ts
@@ -340,6 +342,9 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 #EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",AAJ TAK FHD
 http://513422364238941699.ofgd1018.xyz:80/live/me424212/Uy8xnyrhEg/941699.ts
 
+#EXTINF:-1 tvg-logo="" group-title="HINDI NEWS",ABP NEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="HINDI NEWS",INDIA NEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-news/index.m3u8
 
@@ -454,6 +459,8 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="KIDS",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="KIDS",TOONZ KIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 
 
 #----------------------------HINDI MOVIES---------------------
