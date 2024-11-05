@@ -9,6 +9,25 @@ https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/pla
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",CHARDIKALA TIME TV
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PTC Chakde
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PTC Dhol
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PTC Music
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PTC News
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PTC Punjabi
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",PTC Simran
+https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="PUNJABI" group-title="",9X TASHAN
 https://previewsecgire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_delay_ire_sd/9xtashan/master/chunklist.m3u8
 
@@ -344,7 +363,10 @@ https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/i
 
 
 #EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",AAJ TAK FHD
-http://513422364238941699.ofgd1018.xyz:80/live/me424212/Uy8xnyrhEg/941699.ts
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",Lok Sabha TV
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="HINDI NEWS",ABP NEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
