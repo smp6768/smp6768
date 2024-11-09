@@ -384,7 +384,7 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91641.ts
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91534.ts
 
 #EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",India TV News
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91500.ts
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="HINDI NEWS" group-title="",India TV
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91501.ts
