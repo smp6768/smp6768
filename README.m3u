@@ -60,65 +60,6 @@ http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91465.ts
 
 #--------------------SPORTS--------------------
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", EUROSPORTS 1 FHD
-http://904428763942920567.ofgd1018.xyz:80/play/vi18701/3Kvb7E@GGdA/920567.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", EUROSPORTS 2 FHD
-http://904428763942920568.ofgd1018.xyz:80/play/vi18701/3Kvb7E@GGdA/920568.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", Willow Cricket
-http://904428763942941782.ofgd1018.xyz:80/play/vi18701/3Kvb7E@GGdA/941782.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", WILLOW CRICKET NEWW
-http://home-playtv.com:8080/Granav30/ZPETU@@2/218774
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", TNT SPORTS 1 FHD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91276.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", TNT SPORTS 2 FHD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91277.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", TNT SPORTS 3 FHD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91278.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", TNT SPORTS 4 FHD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91279.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports 1 Hindi FHD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91629.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", Star Sports 1 FHD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91630.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports 1 HD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91631.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports 2
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91632.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports 3
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91633.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports Select 1 HD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91634.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports Select 2 HD
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91635.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports 3
-http://103.84.57.155:8000/play/a02r/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Sony Ten
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91613.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Sony Ten 3
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91615.ts
-
-#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",DD Sports
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91466.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
