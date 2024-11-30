@@ -86,6 +86,12 @@ https://live-cdn.tsports.com/live-01/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",T Sports 3
 http://starshare.live:8080/live/Leroy123/Leroy123/18452.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="", Willow Cricket
+http://904428763942941782.ofgd1018.xyz:80/play/vi18701/3Kvb7E@GGdA/941782.ts
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="SPORTS" group-title="",TNT Sports 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
 
